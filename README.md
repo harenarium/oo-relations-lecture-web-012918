@@ -1,7 +1,7 @@
 # Twitter
 
 ## Overview
-Where weve been
+#### Where we've been
 school = School.new('Flatiron School')
 school.students
 => ["Isaac", "Caroline", "Zahran"]
@@ -10,7 +10,7 @@ student = Student.new('Isaac')
 student.school
 -> "Flatiron School"
 ======
-where we're headed
+#### Where we'll be from here on out
 school = School.new('Flatiron School')
 school.students
 => [<Student @name="Isaac">, <Student>, <Student>]

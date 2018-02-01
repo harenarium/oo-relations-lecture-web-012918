@@ -11,6 +11,8 @@ tweet3 = tea_uncle.post_tweet('havin tea')
 tweet4 = coffee_dad.post_tweet('havin coffee')
 tweet5 = tea_uncle.post_tweet('i like tea')
 
+coffee_dad.tweets
+
 
 binding.pry
 
